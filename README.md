@@ -6,8 +6,8 @@ dataset balloons
 
 Atribut yang digunakan 
 
-1. Warna = berupa warna yang ada pada balon semisal kuning dan ungu
-2. Ukuran = ukuran balon Besar atau Kecil
+1. Color = berupa warna yang ada pada balon semisal kuning dan ungu
+2. Size = ukuran balon Besar atau Kecil
 3. act / aksi = balon tersebut akan di gunakan untuk apa semisal di tarik
-4. umur = yang menggunakan balon dewasa atau anak-anak
-5. balon di pompa (class) = bersifat tipe antara "True" and "False"
+4. Age = yang menggunakan balon dewasa atau anak-anak
+5. Inflated (class) = bersifat tipe antara "True" and "False"
