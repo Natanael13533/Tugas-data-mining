@@ -14,4 +14,4 @@ Atribut yang digunakan
 
 Data Set Information:
 
-a. adult-stretch.data Inflated is true if age=adult or act=stretch
+adult-stretch.data Inflated is true if age=adult or act=stretch
